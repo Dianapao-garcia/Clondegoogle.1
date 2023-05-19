@@ -3,7 +3,7 @@
 ## ÍNDICE 
 
 * [1. Intro](https://github.com/Dianapao-garcia/Clondegoogle.1/blob/main/README.md#1intro)
-* [2. Qué contruí](#)
+* [2. Qué contruí](https://github.com/Dianapao-garcia/Clondegoogle.1/blob/main/README.md#2-qu%C3%A9-constru%C3%AD)
 * [3. Objetivo del proyecto](#)
 
 ****
